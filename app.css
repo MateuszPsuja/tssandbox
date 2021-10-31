@@ -1,0 +1,12 @@
+body {
+    background-color: #efefef;
+    color: #000000;
+    font-size: 12px;
+    font-family: sans-serif;
+}
+
+.headline {
+    font-size: 16px;
+    font-weight: bold;
+    text-align: center;
+}
