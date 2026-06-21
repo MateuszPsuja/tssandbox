@@ -1,6 +1,8 @@
 # TS Sandbox
 Preconfigured Typescript environment for learning purposes.
 
+This project is licensed under the MIT License. See the LICENSE file for details.
+
 Features: TypeScript compilation, dev server, watch-mode, and Jest tests.
 
 **Prerequisites**

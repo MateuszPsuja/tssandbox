@@ -11,7 +11,7 @@
     "start": "concurrently \"npm run tsc app.ts\" \"npm run tsc:w\" \"npm run lite\""
   },
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "devDependencies": {
     "@types/jest": "^28.1.8",
     "@types/node": "^16.11.7",
